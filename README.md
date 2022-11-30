@@ -1,4 +1,4 @@
-# alder-lake-budget-hackintosh
+# alder lake budget hackintosh build
 
 Specs:  
 - i5-12400
