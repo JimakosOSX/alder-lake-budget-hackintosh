@@ -26,5 +26,3 @@ Not working:
 - iGPU (Unsupported)
 
 
-Due to not using this machine anymore, consider this repo stale.
-
